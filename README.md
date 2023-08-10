@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prajwal-vernekar grom Nutanix
+- 👋 Hi, I’m @prajwal-vernekar from Nutanix
 - 👀 I’m interested in DevOPS, Automation, Gaming
 - 🌱 I’m currently learning Kubernetes
 
